@@ -1,6 +1,6 @@
 <!-- I want to review in Japanese. -->
 ## 要件
-xxxの改修をしました。
+oo機能の改修をしました。
 ## テスト項目
 - [x] xxxxxx
 
@@ -15,7 +15,7 @@ mm/dd(曜日) までにレビューお願いします！
 [nits] → ささいな指摘(nitpick) 
 [ask] → 質問  
 [fyi] → 参考情報
-<!-- for GitHub Copilot review  rule-->
+<!-- for GitHub Copilot review rule-->
 
 ## PRのルール
 - まずはDraftでPRを作成する。
